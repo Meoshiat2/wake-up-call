@@ -1,0 +1,24 @@
+{
+  "name": "god-first-purpose",
+  "version": "1.0.0",
+  "description": "A spiritual wake-up call app for people finding themselves, healing, and walking in purpose.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "purpose",
+    "faith",
+    "healing",
+    "wellness",
+    "spiritual",
+    "reflection",
+    "god-first"
+  ],
+  "author": "Meoshiat2",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
